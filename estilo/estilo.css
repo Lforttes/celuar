@@ -28,6 +28,7 @@ position relative> fica sobre o body
 main{
     position: relative;
     height: 100vh;
+    min-width: 360px;
 }
 /*configurações do ID celular
 position absolute> ficará sobre a main
